@@ -1,0 +1,66 @@
+# ----------------------------
+# Python stuff
+# ----------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+VENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook outputs (optional)
+*.nbconvert.ipynb
+*.out
+*.log
+
+# VS Code settings
+.vscode/
+
+# Python package distributions
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# ----------------------------
+# R / RStudio stuff
+# ----------------------------
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session / workspace
+.RData
+.Ruserdata
+
+# RStudio project files (optional)
+.Rproj.user/
+
+# Output folders
+.Rplots/
+__pycache__/
+*.pdf  # if you generate plots
+*.html # if you generate HTML reports
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
