@@ -7,20 +7,6 @@ The professional documentation PDF (`Stroke_Data_Analysis.pdf`) includes all the
 
 ---
 
-## Repository Structure
-Stroke_Data_Analysis/
-├── data/healthcare-dataset-stroke-data.csv # Kaggles Dataset
-├── data/stroke_cleaned.csv # Cleaned dataset after preprocessing
-├── .gitignore
-├── 01_data_cleaning.ipynb # Data cleaning and preprocessing
-├── 02_EDA.ipynb # Exploratory Data Analysis with visualizations
-├── 03_modeling.ipynb # Predictive modeling and dashboard creation
-├── Stroke_Data_Analysis.pdf # Compiled documentation with code and outputs
-└── README.md 
-
-
----
-
 ## Data Source
 The dataset used for this analysis was obtained from Kaggle:
 
