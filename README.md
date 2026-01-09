@@ -41,11 +41,6 @@ The dataset used for this analysis was obtained from Kaggle:
 
 ---
 
-## License
-This project is for educational purposes. Please cite the source dataset if reused in research or publications.
-
----
-
 ## Author
 **Nush Ojha**  
 Documentation, data analysis, and modeling.
